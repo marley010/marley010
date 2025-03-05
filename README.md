@@ -1,3 +1,4 @@
+<h1>Hi 👋, I'm Marley</h1>
 # 💫 About Me:
 im currently studying
 
@@ -9,4 +10,3 @@ alse&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=marley010&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
